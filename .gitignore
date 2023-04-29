@@ -1,0 +1,7 @@
+/.DS_Store
+/node_modules
+/package-lock.json
+/package.json
+/postcss.config.cjs
+/tailwind.config.cjs
+/vite.config.js
