@@ -11,7 +11,7 @@ const ProfileIcon = () => {
         <span className="h-10 w-10 relative flex justify-center items-center">
             <img src={ProfileRing} className="absolute" alt="lol" />
             <span className="h-8 w-8 round-full overflow-hidden">
-                <img src={Profile} alt="" className="h-full w-full object-cover"/>
+                <img src={Profile} alt="" className="h-full w-full object-cover rounded-2xl"/>
             </span>
         </span>
     </div>;
